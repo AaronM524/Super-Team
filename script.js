@@ -12,16 +12,17 @@ const teamMembers = [
         'Peter Czech is considered one of the greatest goalkeepers of all time...'
     },
     {
-      name: 'Lionel Messi Jr.',
+      name: 'John Terry',
+      img: 'jtchampionsleague.jpg',
       position: 'Defender',
-      skills: ['Dribbling', 'Shooting', 'Passing'],
-      strengths: 'Ball control',
-      weaknesses: 'Heading Ability',
+      skills: ['Speed', 'Tackling', 'Aerial Defending'],
+      strengths: 'Positioning',
+      weaknesses: 'Penalties',
       biography:
-        'Lionel Messi is considered one of the greatest football players of all time...'
+        'John Tery was voted best defender in the UEFA Champions League in 2005.'
     },
     {
-        name: 'Lionel Messi Jr.',
+        name: 'Marcel Desailly',
         position: 'Defender',
         skills: ['Dribbling', 'Shooting', 'Passing'],
         strengths: 'Ball control',
@@ -30,7 +31,7 @@ const teamMembers = [
           'Lionel Messi is considered one of the greatest football players of all time...'
       },
       {
-        name: 'Lionel Messi Jr.',
+        name: 'Thiago Silva',
         position: 'Defender',
         skills: ['Dribbling', 'Shooting', 'Passing'],
         strengths: 'Ball control',
@@ -39,7 +40,7 @@ const teamMembers = [
           'Lionel Messi is considered one of the greatest football players of all time...'
       },
       {
-        name: 'Lionel Messi Jr.',
+        name: 'Cesar Azpilicueta',
         position: 'Defender',
         skills: ['Dribbling', 'Shooting', 'Passing'],
         strengths: 'Ball control',
@@ -48,8 +49,8 @@ const teamMembers = [
           'Lionel Messi is considered one of the greatest football players of all time...'
       },
       {
-        name: 'Lionel Messi Jr.',
-        position: 'Defender',
+        name: 'Ngolo Kante',
+        position: 'Midfielder',
         skills: ['Dribbling', 'Shooting', 'Passing'],
         strengths: 'Ball control',
         weaknesses: 'Heading Ability',
@@ -57,8 +58,8 @@ const teamMembers = [
           'Lionel Messi is considered one of the greatest football players of all time...'
       },
       {
-        name: 'Lionel Messi Jr.',
-        position: 'Defender',
+        name: 'Michael Essien',
+        position: 'Midfielder',
         skills: ['Dribbling', 'Shooting', 'Passing'],
         strengths: 'Ball control',
         weaknesses: 'Heading Ability',
@@ -139,6 +140,7 @@ const teamMembers = [
               <div class = "card">
                   <div class = "card-header"> ${member.name}</div>
                   <div class = "card-body">
+                  <img style="width: 200px" src=${member.img}>
                       <p><strong>Position:</strong> ${member.position}</p>
                       <p><strong>Skills:</strong> 
                           <ul>
