@@ -1,6 +1,6 @@
 const teamMembers = [
     {
-      name: 'Peter Czech',
+      name:  'Peter Czech',
       img: 'czech.jpg',
       activelyPlaying: true,
       position: 'Goalkeeper',
@@ -117,7 +117,7 @@ const teamMembers = [
   
     teamMembers.forEach(member => {
       const card = document.createElement('div')
-      card.classList.add('col-md-4')
+      card.classList.add('col-md-4.5',)
   
       //styling card based on position:
       let backgroundColor
