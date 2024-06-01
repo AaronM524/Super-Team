@@ -22,7 +22,7 @@ const teamMembers = [
     },
     {
         name: 'Marcel Desailly',
-        img: 'czech.jpg',
+        img: 'md.jpg',
         position: 'Defender',
         skills: ['Versatility', 'Strength', 'Leadership'],
         strengths: 'Experience',
@@ -32,7 +32,7 @@ const teamMembers = [
       },
       {
         name: 'Thiago Silva',
-        img: 'czech.jpg',
+        img: 'ts.jpg',
         position: 'Defender',
         skills: ['Positioning', 'Leadership', 'Positioning'],
         strengths: 'Experience',
@@ -42,7 +42,7 @@ const teamMembers = [
       },
       {
         name: 'Cesar Azpilicueta',
-        img: 'czech.jpg',
+        img: 'ca.jpg',
         position: 'Defender',
         skills: ['Crossing', 'Team Player', 'Work Rate'],
         strengths: 'Consistency',
@@ -52,7 +52,7 @@ const teamMembers = [
       },
       {
         name: 'Ngolo Kante',
-        img: 'czech.jpg',
+        img: 'nk.jpg',
         position: 'Midfielder',
         skills: ['Tackling', 'Ball Recovery', 'Passing'],
         strengths: 'Stamina',
@@ -62,7 +62,7 @@ const teamMembers = [
       },
       {
         name: 'Michael Essien',
-        img: 'czech.jpg',
+        img: 'me.jpg',
         position: 'Midfielder',
         skills: ['Shooting', 'Tackling', 'Dribbling '],
         strengths: 'Positioning',
@@ -72,7 +72,7 @@ const teamMembers = [
       },
       {
         name: 'Frank Lampard',
-        img: 'czech.jpg',
+        img: 'fl.jpg',
         position: 'Midfielder',
         skills: ['Vision', 'Shooting', 'Passing'],
         strengths: 'Mentality',
@@ -82,7 +82,7 @@ const teamMembers = [
       },
       {
         name: 'Eden Hazard',
-        img: 'czech.jpg',
+        img: 'eh.jpg',
         position: 'Forward',
         skills: ['Dribbling', 'Pace', 'Shooting'],
         strengths: 'Finishing',
@@ -92,7 +92,7 @@ const teamMembers = [
       },
       {
         name: 'Didier Drogba',
-        img: 'czech.jpg',
+        img: 'dd.jpg',
         position: 'Forward',
         skills: ['Aerial', 'Leadership', 'Set Piece Specialist'],
         strengths: 'Menatlity',
@@ -102,7 +102,7 @@ const teamMembers = [
       },
       {
         name: 'Samuel Eto',
-        img: 'czech.jpg',
+        img: 'se.jpg',
         position: 'Forward',
         skills: ['Inteligence', 'Goal Scorer', 'Versatility'],
         strengths: 'Experience',
