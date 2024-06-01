@@ -2,7 +2,6 @@ const teamMembers = [
     {
       name: 'Peter Czech',
       img: 'czech.jpg',
-      age: 341,
       activelyPlaying: true,
       position: 'Goalkeeper',
       skills: ['Reflexes', 'Collecting On The Ball', 'Footwork'],
@@ -19,88 +18,97 @@ const teamMembers = [
       strengths: 'Positioning',
       weaknesses: 'Penalties',
       biography:
-        'John Tery was voted best defender in the UEFA Champions League in 2005.'
+        'John Terry was voted best defender in the UEFA Champions League in 2005.'
     },
     {
         name: 'Marcel Desailly',
+        img: 'czech.jpg',
         position: 'Defender',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        skills: ['Versatility', 'Strength', 'Leadership'],
+        strengths: 'Experience',
+        weaknesses: 'Injury Prone',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'Desailly was an important part of the French team which won the 1998 FIFA World Cup, albeit being sent off in the final match.'
       },
       {
         name: 'Thiago Silva',
+        img: 'czech.jpg',
         position: 'Defender',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        skills: ['Positioning', 'Leadership', 'Positioning'],
+        strengths: 'Experience',
+        weaknesses: 'Age',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'Thiago Emiliano da Silva is a Brazilian professional footballer who plays as a centre-back for Premier League club Chelsea and the Brazil national team. '
       },
       {
         name: 'Cesar Azpilicueta',
+        img: 'czech.jpg',
         position: 'Defender',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        skills: ['Crossing', 'Team Player', 'Work Rate'],
+        strengths: 'Consistency',
+        weaknesses: 'Stamina',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          ' Azpilicueta is one of just six players to have won the Premier League, FA Cup, League Cup, Champions League, Super Cup and Club World Cup.'
       },
       {
         name: 'Ngolo Kante',
+        img: 'czech.jpg',
         position: 'Midfielder',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        skills: ['Tackling', 'Ball Recovery', 'Passing'],
+        strengths: 'Stamina',
+        weaknesses: 'Goal Scoring',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'Kante is known for his work rate and defensive acumen.'
       },
       {
         name: 'Michael Essien',
+        img: 'czech.jpg',
         position: 'Midfielder',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        skills: ['Shooting', 'Tackling', 'Dribbling '],
+        strengths: 'Positioning',
+        weaknesses: 'Discipline',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'At Chelsea, Essien helped the club win the Premier League in 2006 and 2010, as well as three FA Cups and one League Cup.'
       },
       {
-        name: 'Lionel Messi Jr.',
-        position: 'Defender',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        name: 'Frank Lampard',
+        img: 'czech.jpg',
+        position: 'Midfielder',
+        skills: ['Vision', 'Shooting', 'Passing'],
+        strengths: 'Mentality',
+        weaknesses: 'Defense',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'Lampard joined the club in 2001 and went on to become their all-time leading goal scorer with a staggering 211 goals in 648 appearances.'
       },
       {
-        name: 'Lionel Messi Jr.',
-        position: 'Defender',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        name: 'Eden Hazard',
+        img: 'czech.jpg',
+        position: 'Forward',
+        skills: ['Dribbling', 'Pace', 'Shooting'],
+        strengths: 'Finishing',
+        weaknesses: 'Defense',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'The Belgian forward won the UEFA Europa League and the Premier League twice with Chelsea, before winning the UEFA Champions League with Real Madrid in 2022.'
       },
       {
-        name: 'Lionel Messi Jr.',
-        position: 'Defender',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        name: 'Didier Drogba',
+        img: 'czech.jpg',
+        position: 'Forward',
+        skills: ['Aerial', 'Leadership', 'Set Piece Specialist'],
+        strengths: 'Menatlity',
+        weaknesses: 'Discipline',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'He has been named African Footballer of the Year twice and is the all-time leading goal scorer for the Ivory Coast national team.'
       },
       {
-        name: 'Lionel Messi Jr.',
-        position: 'Defender',
-        skills: ['Dribbling', 'Shooting', 'Passing'],
-        strengths: 'Ball control',
-        weaknesses: 'Heading Ability',
+        name: 'Samuel Eto',
+        img: 'czech.jpg',
+        position: 'Forward',
+        skills: ['Inteligence', 'Goal Scorer', 'Versatility'],
+        strengths: 'Experience',
+        weaknesses: 'Consistency',
         biography:
-          'Lionel Messi is considered one of the greatest football players of all time...'
+          'Is he the best player to play for Cameroon?'
       },
   ]
   
